@@ -19,7 +19,7 @@ For version control and collaboration, I pushed the code to a remote repository 
 
 I logged into my github accounct and created a new empty repository named "MarketPeak_Ecommerce
 I linked my local repository to Github by running this command:
-git remote add origin https://github.com/Bettymusari/MarketPeak_Ecommerce.git
+git remote add origin https://github.com/Centinno88/MarketPeak_Ecommerce.git
 
 I then tried to push my commits to Github with "git push -u origin main" . It didn't work, so i went back to Github and used the process commands outlined:
 
