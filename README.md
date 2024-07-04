@@ -39,7 +39,7 @@ git push -u origin main :
 
 This was successful wit the following result:
 
-"Enumerating objects: 42, done. Counting objects: 100% (42/42), done. Delta compression using up to 4 threads Compressing objects: 100% (40/40), done. Writing objects: 100% (42/42), 1.85 MiB | 41.00 KiB/s, done. Total 42 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0) remote: Resolving deltas: 100% (1/1), done. To https://github.com/Bettymusari/MarketPeak_Ecommerce.git
+"Enumerating objects: 42, done. Counting objects: 100% (42/42), done. Delta compression using up to 4 threads Compressing objects: 100% (40/40), done. Writing objects: 100% (42/42), 1.85 MiB | 41.00 KiB/s, done. Total 42 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0) remote: Resolving deltas: 100% (1/1), done. To https://github.com/Centinno88/MarketPeak_Ecommerce.git
 
 [new branch] main -> main branch 'main' set up to track 'origin/main'."
 AWS Deployment:
